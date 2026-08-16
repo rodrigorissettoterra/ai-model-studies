@@ -8,6 +8,8 @@ The goal of this repository is not to collect isolated algorithms or maximize be
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Google-Colab-F9AB00?logo=googlecolab&logoColor=white" alt="Google Colab">
   <img src="https://img.shields.io/badge/Machine%20Learning-Studies-green" alt="Machine Learning">
   <img src="https://img.shields.io/badge/Generative%20AI-Studies-purple" alt="Generative AI">
   <img src="https://img.shields.io/badge/Agentic%20AI-Studies-red" alt="Agentic AI">
