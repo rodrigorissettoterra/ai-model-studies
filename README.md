@@ -634,14 +634,10 @@ Experiment
 Optimize decisions
 ```
 
-Models matter.
-
-But reliable AI systems require much more than models.
-
 ---
 
 ## Author
 
-Maintained by [@rodrigorissettoterra](https://github.com/rodrigorissettoterra).
+Maintained by [Rodrigo Terra](https://github.com/rodrigorissettoterra).
 
 Contributions, discussions, suggestions, and feedback are welcome.
